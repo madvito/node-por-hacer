@@ -1,0 +1,7 @@
+npm init  //hacer el package.json
+
+npm install --save yargs colors  //instalar en el proyecto yargs y colors
+
+
+
+el archivo db/data.json  lo creamos nosotros para usar a modo de base de datos para guardar las tareas y hacerlas persistentes
